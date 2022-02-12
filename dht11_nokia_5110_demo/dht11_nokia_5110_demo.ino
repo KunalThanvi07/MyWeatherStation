@@ -12,7 +12,6 @@
 #include <WiFiClient.h>
 #include <WiFiClientSecureBearSSL.h>
 
-
 ESP8266WiFiMulti WiFiMulti;
 
 /* Declare LCD object for SPI
